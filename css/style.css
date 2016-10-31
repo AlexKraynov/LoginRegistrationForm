@@ -1,3 +1,7 @@
+#container {
+    text-align: center;
+}
+
 .wrap_reg_form {
     text-align: center;
 }
@@ -14,8 +18,8 @@
 
 input[id^="btn"] {
     margin: auto;
-/*    margin-left: 10px;
-    margin-right: 10px;*/
+    /*    margin-left: 10px;
+        margin-right: 10px;*/
 } 
 
 .row input.text {
