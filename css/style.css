@@ -1,0 +1,44 @@
+.wrap_reg_form {
+    text-align: center;
+}
+
+.row {
+    margin: 15px auto 15px auto; 
+    width: 300px;
+}
+
+.row label {
+    display:block;
+    font-weight:bold;
+}
+
+input[id^="btn"] {
+    margin: auto;
+/*    margin-left: 10px;
+    margin-right: 10px;*/
+} 
+
+.row input.text {
+    width: 290px;
+    font-size:1.2em;
+    padding: 5px 5px;
+}
+
+.to_reg {
+    font-size:0.9em;
+    text-align: center;
+}
+
+.instruction {
+    width: 300px;
+    text-align: center;
+    word-break: break-all;
+    font-size:0.8em;
+    color:#aaaaaa;
+    cursor:default;
+}
+
+.error {
+    color:red;
+    margin-left:3px;
+}
